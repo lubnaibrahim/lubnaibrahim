@@ -19,7 +19,8 @@ University Name: Mansoura University.
 
 Abstract : 
 Recent advances in the throughput of next-generation sequencing machines have created a 
-significant computational challenge in analysing vast amounts of sequenced data.
+significant computational challenge in analysing vast amounts of sequenced data. 
+
 Introduction :
 NGS machines are capable of generating millions or even billions of short DNA fragments. The improvement of NGS technology has been exceeding Moore's Law for a decade. Short read-alignment is needed to bridge the gap between alignment research research and practice. NGS machines can sequence millions of DNA fragments in hours.
 FPGA has shown to be a promising candidate to accelerate short read mapping because of its highly-parallel bit-wised bit-architecture. Different algorithms, for example, the FM-indexed algorithms, have been implemented and accelerated on FPGA.Most accelerators have failed to utilize the complete in-formation available in NGS data. Many FPGA researchers select and accelerate alignment algorithms that are in favor of hardware.
